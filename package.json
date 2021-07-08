@@ -1,0 +1,23 @@
+{
+  "name": "chenjinqiu-npm",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjnqiu/chenjinqiu-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "packge"
+  ],
+  "author": "chenjinqiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenjnqiu/chenjinqiu-npm/issues"
+  },
+  "homepage": "https://github.com/chenjnqiu/chenjinqiu-npm#readme"
+}
